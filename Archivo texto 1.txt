@@ -1,0 +1,7 @@
+1- git init
+2- git remote add origin 
+3- https//github.com/acurling/yahoo.git
+4- git branch-M main
+5- git add
+6- git commit -m "first commit"
+7- git push -u origin main
